@@ -1,0 +1,10 @@
+body{
+    background-color: #202020;
+    color: rgb(31, 167, 235);
+}
+
+table,th {
+    border:2px solid #c59119;
+    /* color: white; */
+}
+
