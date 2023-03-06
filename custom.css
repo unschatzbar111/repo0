@@ -1,6 +1,6 @@
 body{
-    background-color: #202020;
-    color: rgb(31, 167, 235);
+    background-color: #041229;
+    color: rgb(30, 217, 204);
 }
 
 table,th {
@@ -8,3 +8,12 @@ table,th {
     /* color: white; */
 }
 
+input[type=checkbox] {
+    accent-color: rgb(30, 217, 204);
+  }
+
+th {
+  background-color: rgba(178, 78, 16, 0.623);
+  -webkit-backdrop-filter: blur(5px);
+  backdrop-filter: blur(5px);
+}
