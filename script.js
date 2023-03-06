@@ -12,7 +12,7 @@ function template(){
     } else if (semesterValue == 1){ 
       window.location.href = `Sem1-Non-Elc.html`
     } else if (semesterValue == 2 && checkbox.checked){
-      window.location.href = `Both ElC first.html`
+      window.location.href = `Both ELC first.html`
     } else if (semesterValue == 2){
       window.location.href = `Both ELC second.html`
     }
